@@ -4,10 +4,10 @@ import static org.junit.Assert.fail;
 
 import org.junit.Test;
 
-class EmployeeTest {
+public class EmployeeTest {
 
 	@Test
-	void testEmployee() {
+	public void testEmployee() {
 		fail("Not yet implemented");
 	}
 
