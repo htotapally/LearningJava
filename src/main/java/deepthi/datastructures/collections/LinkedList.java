@@ -2,7 +2,7 @@ package deepthi.datastructures.collections;
 
 public class LinkedList {
 
-	 private Node headNode;
+	private Node headNode;
 
 	public void addNode(Node node) {
 
