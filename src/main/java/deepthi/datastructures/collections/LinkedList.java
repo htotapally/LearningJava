@@ -6,7 +6,7 @@ public class LinkedList {
 
 	public void addNode(Node node) {
 
-		Node tailNode = getTailNode();
+Node tailNode = getTailNode();
 
 		if (tailNode == null) {
 
