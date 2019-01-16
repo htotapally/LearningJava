@@ -33,4 +33,6 @@ public class Nodee {
 	public void setPrevNode(Nodee node) {
 		this.prevNode = node;
 	}
+	
+	
 }
