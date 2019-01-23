@@ -1,6 +1,6 @@
 package deepthi.datastructures.collections;
 
-public interface Iheap {
+public interface IHeap {
 	public int findMax();
 
 	public void insert(int data);
@@ -13,7 +13,7 @@ public interface Iheap {
 	
 	public int getParentIndex(int currentPosition);
 	
-	public void heapify();
+	public void heapify(int currentPosition);
 	
 	public boolean heapified();
 }
